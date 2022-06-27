@@ -2,6 +2,7 @@
 
 Automatically detect Sensor Leaks in Android Applications
 
+More Details: https://www.monash.edu/it/humanise-lab/projects/current-projects/characterizing-sensor-leaks-in-android-apps
 
 ## Setup
 The following is required to set up Native2Java:
